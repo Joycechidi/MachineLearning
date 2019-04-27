@@ -2,3 +2,5 @@ Using Image Recogniton APIs instead of building the neural network from scratch
 
 Google Cloud Vision API for object recognition and text extraction. 
 In this project, The Cloud Vision API, I used a pre-trained model to detect images and texts in a document.
+
+To use this api, I created my own credentials for using the API and stored it in a json file
