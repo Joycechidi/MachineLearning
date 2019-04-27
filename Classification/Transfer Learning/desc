@@ -1,0 +1,1 @@
+In this program, I transferred an already trained model from the image recognition neural network to traine another set of images. With this method, I didn't have to build the model from scratch.
