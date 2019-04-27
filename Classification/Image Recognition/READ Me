@@ -1,1 +1,14 @@
-This program uses classification method of machine learning (convutional neural network) to identify and classify images based on data trainings.
+This program uses classification method of machine learning (convolutional neural network)
+to identify and classify images based on data trainings.
+
+
+Complete convolutional neural network. 
+
+I separated all the different steps for achieving this model from loading and viewing the image dataset, 
+creating the model structure, 
+conv. layers,
+max pooling,
+dense layers,
+dropouts,
+training and saving the weights,
+to training the neural network.
